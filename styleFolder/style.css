@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+h1{
+
+}
+
+
+body{
+    background-color:rgb(62, 45, 45);
+}
+
+.button{
+    align-content: center;
+}
+
+#red{
+    width: 100;
+    height: 100;
+    background-color:peachpuff;
+    border-radius: 20px;
+    position: absolute;
+    left: 35%;
+    top: 30%;
+}
+
+#yellow{
+    width: 100;
+    height: 100;
+    background-color: peachpuff;
+    border-radius: 20px;
+    position: absolute;
+    left: 45%;
+    top: 30%;
+
+}
+
+#green{
+    width: 100;
+    height: 100;
+    background-color: peachpuff;
+    border-radius: 20px;
+    position: absolute;
+    left: 55%;
+    top: 30%;
+
+}
+
+#endGameButton{
+    width: 100;
+    height: 100;
+    background-color:peachpuff;
+    border-radius: 20px;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+} 
+
+.rock{
+    width: 70px;
+    position: absolute;
+    left: 36%;
+    top: 31%;
+    bottom: 10%;
+
+}
+
+.paper{
+    width: 70px;
+    position: absolute;
+    left: 46%;
+    top: 33%;
+    bottom: 10%; 
+ }
+
+.sisccors{
+    width: 70px;
+    position: absolute;
+    left: 56%;
+    top: 33%;
+    bottom: 10%; 
+}
+
+.red{
+    width: 45px;
+    position: absolute;
+    left: 47%;
+    top: 55%;
+    bottom: 10%; 
+}
